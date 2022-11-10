@@ -10,4 +10,4 @@ return a*b
 def div(a,b):
 return a//b
 
-gg
+gga//b #주석
